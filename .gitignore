@@ -1,0 +1,5 @@
+.ipynb_checkpoints
+.DS_Store
+
+# Don't track original notebooks since those are unedited
+orig/
